@@ -1,4 +1,4 @@
-<a href="http://alienbuild.uk"><img src="https://alienbuild.uk/github/hero.png" width="100%"></a>
+![alt text](https://raw.githubusercontent.com/alienbuild/alienbuild/master/cover.jpg)
 
 #
 
