@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/alienbuild/alienbuild/master/cover.jpg)
+![alt text](https://raw.githubusercontent.com/alienbuild/alienbuild/main/cover.jpg)
 
 #
 
